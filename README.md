@@ -74,3 +74,13 @@ General design notes about these maps:
   map images. When it's an object that is likely to be interacted with,
   destroyed, etc. by the players, I'll add them later directly in [Foundry
   VTT](https://foundryvtt.com/).
+
+
+Maps
+----
+
+These are the maps included in the repository:
+
+- Pathfinder Adventure Path #8: [Carrion Crown](https://pathfinderwiki.com/wiki/Carrion_Crown):
+  - Part 4: [Wake of the Watcher](https://pathfinderwiki.com/wiki/Wake_of_the_Watcher) (PZO9046)
+    - [Undiomede House](Carrion%20Crown/PZO9046%20Wake%20of%20the%20Watcher/undiomede_house.png)
